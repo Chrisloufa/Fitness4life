@@ -1,18 +1,47 @@
+@import url('https://fonts.googleapis.com/css2?family=Andada+Pro:wght@600&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    border: none;
+}
+
+body {
+    font-family: 'Andada Pro', serif;
+    font-weight: 300;
+    color: black;
+}
+
 #logo {
     float: left;
-    font-size: 200%;
+    font-size: 400%;
     margin-left: 30px;
+    color: black;
 }
 
 #menu {
     font-size: 110%;
     letter-spacing: 4px;
+    line-height: 75px;
+}
+
+#menu a {
+    text-decoration: none;
+    color: black;
+}
+
+.active {
+    border-bottom: 1px solid #000000;
 }
 
 #menu li {
     float: right;
     list-style-type: none;
     margin-right: 30px;
+}
+
+#menu a:hover {
+    border-bottom: 1px solid #3a3a3a;
 }
 
 header {
@@ -31,6 +60,18 @@ header {
     height: 600px;
     width: 100%;
     background: url('../images/fitness-center.jpeg') no-repeat center center;
+    animation-name: hero-zoom;
+    animation-duration: 5s;
+    animation-fill-mode: forwards;
+}
+
+@keyframes hero-zoom {
+    from {
+        transform: scale(1);
+    }
+    to {
+        transform: scale(1.4);
+    }
 }
 
 #fitness-outer {
@@ -41,23 +82,28 @@ header {
 }
 
 #cover-text {
-    font-size: 130%;
+    font-size: 120%;
     color: white;
     text-transform: uppercase;
     letter-spacing: 4px;
     text-align: center;
 
     width: 400px;
-    height: 200px;
+    height: 150px;
 
-    padding-top: 10px;
+    padding-top: 40px;
     padding-left: 10px;
     padding-right: 10px;
-
-
+    
     background-color: rgba(101, 118, 219, 0.7);
 
-    bottom: 30px;
+    bottom: 20px;
     right: 50px;
     position: absolute;
+}
+
+#banner {
+    text-transform: uppercase;
+    text-align: center;
+    font-size: 240%;
 }
