@@ -32,3 +32,32 @@ header {
     width: 100%;
     background: url('../images/fitness-center.jpeg') no-repeat center center;
 }
+
+#fitness-outer {
+    height: 600px;
+    width: 100%;
+    overflow: hidden;
+    position: relative;
+}
+
+#cover-text {
+    font-size: 130%;
+    color: white;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+    text-align: center;
+
+    width: 400px;
+    height: 200px;
+
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+
+
+    background-color: rgba(101, 118, 219, 0.7);
+
+    bottom: 30px;
+    right: 50px;
+    position: absolute;
+}
