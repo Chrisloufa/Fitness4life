@@ -102,8 +102,52 @@ header {
     position: absolute;
 }
 
+#about-us {
+    margin-top: 8%;
+    margin-bottom: 8%;
+    text-align: center;
+   
+}
+
+#about-us div {
+    width: 60%;
+    display: inline-block;
+    border: 1px solid #252525;
+    border-radius: 10px;
+
+}
+
+#about-us h2 {
+    text-align: center;
+    font-family:Lato,sans-serif;
+    text-transform: uppercase;
+    color: #252525;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    
+}
+
+.about {
+    text-align: center;
+    padding: 0px 50px 30px 50px;
+    letter-spacing: 1px;
+   
+}
+
 #banner {
     text-transform: uppercase;
     text-align: center;
     font-size: 240%;
 }
+
+
+.maps {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+
+
+  
