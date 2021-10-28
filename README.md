@@ -2,6 +2,19 @@
 
 Fitness4life is a website that advertises a multi-complex sports centre in the Brockley area of London. This is a high end sports facility offering a number of different activities including Tennis, Running, Football, Swimming and a state of the art Gym. Fitness4life gives keen sports advocates an opportunity to get an insight to each individual activity on offer and a breakdown of membership prices and sign up.
 
+# UX
+
+The site is fresh and easy to navigate with simple but to the point information. Mostly users can find out information regarding the complex in general and also the activities that are on offer. Finally there is a contact form for the user to fill out should they have any queries about the sports centre.
+
+## User Stories
+
+- As a new user of this website, I want to easily see the purpose of the website and what it offers.
+- As a new user of this website, I want to be able to easily see the services you offer.
+- As a new user of this website, I want to be able to find out all the activities on offer easily.
+- As a new user of this website, I want to be able to see what the complex looks like.
+- As a new user of this website, I want to easily be able to contact you with any queries.
+- As a new user of this website, I want to be able to visit your social media websites.
+
 # Features
 
 ## Existing features
