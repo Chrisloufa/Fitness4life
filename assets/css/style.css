@@ -163,28 +163,30 @@ header {
     color: #3a3a3a;
 }
 
-#tennis #football #swimming #track {
-    width: 60%;
-    display: inline-block;
-    border: 1px solid #252525;
-    border-radius: 10px;
-}
-
 #photos {
     column-count: 4;
 }
 
 .row {
-    display: flex;
-    width: 1200px;
-    height: 1200px;
-    position: absolute;
-    margin-left: 10%;
-  }
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+}
   
 .column {
     padding: 10px;
   }
 
+.caption {
+    display: flex;
+    text-align: center;
+    border: 1px solid rgb(27, 27, 27);
+    border-radius: 10px; 
+}
+
+.sport {
+    text-align: center;
+}
 
   

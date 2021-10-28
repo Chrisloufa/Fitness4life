@@ -67,27 +67,32 @@ The site is fresh and easy to navigate with simple but to the point information.
 
 ## Wireframes
 
-## Wireframes
-
 - Homepage
 
-
+<p align="center">
+<img src="docs/wireframe/Homepage.png" width="600" height="700">
 
 - Activities
 
-
+<p align="center">
+<img src="docs/wireframe/activities.png" width="600" height="700">
 
 - Contact Us (formerly sign up)
 
+<p align="center">
+<img src="docs/wireframe/contactus.png" width="600" height="700">
 
 - Mobile Homepage
 
-
+<p align="center">
+<img src="docs/wireframe/mobilehomepage.png" width="600" height="700">
 
 - Mobile Activities
 
-
+<p align="center">
+<img src="docs/wireframe/mobileactivities.png" width="600" height="700">
 
 - Mobile Contact Us
 
-!
+<p align="center">
+<img src="docs/wireframe/mobilecontactus.png" width="600" height="700">
