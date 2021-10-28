@@ -64,3 +64,30 @@ The site is fresh and easy to navigate with simple but to the point information.
 ## Future Features
 
 - A page that includes the possibility to sign up to classes and pay for subscriptions.
+
+## Wireframes
+
+## Wireframes
+
+- Homepage
+
+
+
+- Activities
+
+
+
+- Contact Us (formerly sign up)
+
+
+- Mobile Homepage
+
+
+
+- Mobile Activities
+
+
+
+- Mobile Contact Us
+
+!
