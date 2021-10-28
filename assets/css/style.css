@@ -163,5 +163,28 @@ header {
     color: #3a3a3a;
 }
 
+#tennis #football #swimming #track {
+    width: 60%;
+    display: inline-block;
+    border: 1px solid #252525;
+    border-radius: 10px;
+}
+
+#photos {
+    column-count: 4;
+}
+
+.row {
+    display: flex;
+    width: 1200px;
+    height: 1200px;
+    position: absolute;
+    margin-left: 10%;
+  }
+  
+.column {
+    padding: 1px;
+  }
+
 
   
