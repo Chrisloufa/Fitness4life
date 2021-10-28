@@ -48,3 +48,19 @@ The site is fresh and easy to navigate with simple but to the point information.
 - **Activities**
     
     Page provides a breakdown of each activity for the sport centre, each activity contains an image and a short description of the facilities and pricing.
+- **Images**
+    
+    4 images of each sport provided per line with a description of the facilities and some pricing info.
+    
+- **Footer**
+    
+    Continued footer across each page to social media links to create a smooth experience.
+    
+- **Contact us Form**
+    
+    Contact form for users to fill out with general and pricing queries about the sports centre.
+    
+
+## Future Features
+
+- A page that includes the possibility to sign up to classes and pay for subscriptions.
