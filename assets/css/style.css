@@ -264,6 +264,17 @@ header {
         padding: 20px 10px !important;
     }
 
+    #about-us div {
+        width: 95%;
+        display: inline-block;
+        border: 1px solid #252525;
+        border-radius: 10px;
+    }
+
+    #location {
+        width: 95%;
+    }
+
     #menu {
         clear: left;
         float: none;
