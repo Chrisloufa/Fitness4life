@@ -239,7 +239,7 @@ header {
     border-radius: 3px;
 }
 
-@media screen and (max-width: 850px) {
+@media screen and (max-width: 950px) {
     
     #photos {
         column-count: 2;
@@ -247,13 +247,9 @@ header {
         padding: 20px 10px !important;
     }
 
-    .fitness-center {
-        line-height: 25px;
-    }
-
     #menu {
         clear: left;
-        float: none;
+        float: left;
         margin-bottom: 20px;
         padding: 20px 10px !important;
         line-height: 25px;
@@ -268,15 +264,21 @@ header {
         padding: 20px 10px !important;
     }
 
-    .fitness-center {
-        line-height: 25px;
-    }
-
     #menu {
         clear: left;
         float: none;
         margin-bottom: 20px;
         padding: 20px 10px !important;
         line-height: 25px;
+    }
+
+    #menu a {
+        float: none;
+        display: block;
+        text-align: left;
+    }
+
+    #form {
+        left: 10%;
     }
 }
