@@ -16,41 +16,40 @@
         <nav>
             <ul id="menu" class="nav-links">
                 <li>
-                    <a href="contactus.html">Contact Us</a>
+                    <a href="contactus.html" class="active">Contact Us</a>
                 </li>   
                 <li>
                     <a href="activities.html">Activities</a>
                 </li>
                 <li>
-                    <a href="index.html" class="active">Home</a>
+                    <a href="index.html">Home</a>
                 </li>
             </ul>
         </nav>
     </header>
     
-    <section id="fitness-outer">
-        <div id="fitness-center"></div>
-        <div id="cover-text">
-            <h2>Fitness 4 Life</h2>
+    <section class="form-section">
+
+        <form method="POST" action="https://formdump.codeinstitute.net/" id="form" class="contact-form">
+            <h2>Get in touch with us! <i class="fas fa-envelope-open-text"></i></h2>
             <br>
-            <h3>Brockley's leading fitness organisation</h3>
-        </div>
-    </section>
-        <br>
-    <section id="about-us">
-        <div>
-            <h2 id="banner" >What Do We Offer?</h2>
-            <p id="content" class="about">Here at Fitness 4 Life you will be able to enjoy a wide range of sporting activities,
-                            be it our state of the art gym or be it our brand new football pitches there is something for everyone.
-                            <br>
-                            We have been set up since the early 90s and are well renouned for our great service team who will welcome 
-                            you with open arms and are trained to a high standard so are able to give you expert advice.</p>
-        </div>
-    </section>
+            <label for="firstname">First Name:</label>
+            <input id="firstname" type="text" name="username" required class="text-input">
 
-    <h2 id="location">Find us</h2>
-    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2485.8953895506615!2d-0.028033084231754525!3d51.46007707962736!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x487603cceaf69c1d%3A0x8bfd6de0825c8cc4!2sHilly%20fields!5e0!3m2!1sen!2suk!4v1635247012574!5m2!1sen!2suk" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" class="maps"></iframe>
+            <label for="lastname">Last Name:</label>
+            <input id="lastname" type="text" name="username" required class="text-input">
+        
+            <label for="email">Email:</label>
+            <input id="email" type="email" name="email" required class="text-input">
+        
+            <label for="query">Contact Us</label>
+            <textarea name="query" id="query" cols="50" rows="30" required class="query-input"></textarea>
+        
+            <input type="submit" name="submit" value="Submit" class="submit">
+        </form>
 
+    </section>
+   
     <footer>
         <ul class="social-networks">
             <li>
