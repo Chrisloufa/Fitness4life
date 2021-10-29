@@ -140,6 +140,9 @@ header {
     font-size: 240%;
 }
 
+#location {
+    text-align: center;
+}
 
 .maps {
   display: block;
@@ -189,4 +192,9 @@ header {
     text-align: center;
 }
 
-  
+@media screen and (max-width: 600px) {
+    
+    #photos {
+        column-count: 1;
+    }
+}

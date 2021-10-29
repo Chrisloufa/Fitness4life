@@ -70,7 +70,7 @@ The site is fresh and easy to navigate with simple but to the point information.
 - Homepage
 
 <p align="center">
-<img src="docs/wireframe/Homepage.png" width="600" height="700">
+<img src="docs/wireframe/homepage.png" width="600" height="700">
 
 - Activities
 
@@ -96,3 +96,11 @@ The site is fresh and easy to navigate with simple but to the point information.
 
 <p align="center">
 <img src="docs/wireframe/mobilecontactus.png" width="600" height="700">
+
+# Technology
+
+## **Languages**
+
+[HTML5 - Wikipedia](https://en.wikipedia.org/wiki/HTML5)
+
+[CSS - Wikipedia](https://en.wikipedia.org/wiki/CSS)
