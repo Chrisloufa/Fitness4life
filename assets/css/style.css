@@ -192,20 +192,6 @@ header {
     text-align: center;
 }
 
-@media screen and (max-width: 850px) {
-    
-    #photos {
-        column-count: 2;
-    }
-}
-
-@media screen and (max-width: 600px) {
-    
-    #photos {
-        column-count: 1;
-    }
-}
-
 .form-section {
     background: url('../images/sportcomplex.jpeg');
     background-size: cover;
@@ -251,4 +237,46 @@ header {
     font-size: 100%;
     padding: 17px 36px 17px 36px;
     border-radius: 3px;
+}
+
+@media screen and (max-width: 850px) {
+    
+    #photos {
+        column-count: 2;
+        margin-top: 20px;
+        padding: 20px 10px !important;
+    }
+
+    .fitness-center {
+        line-height: 25px;
+    }
+
+    #menu {
+        clear: left;
+        float: none;
+        margin-bottom: 20px;
+        padding: 20px 10px !important;
+        line-height: 25px;
+    }
+}
+
+@media screen and (max-width: 600px) {
+    
+    #photos {
+        column-count: 1;
+        margin-top: 20px;
+        padding: 20px 10px !important;
+    }
+
+    .fitness-center {
+        line-height: 25px;
+    }
+
+    #menu {
+        clear: left;
+        float: none;
+        margin-bottom: 20px;
+        padding: 20px 10px !important;
+        line-height: 25px;
+    }
 }
