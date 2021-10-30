@@ -171,101 +171,101 @@ rgba(255, 255, 255, 0.87) for submit button
 1. As a new user of this website, I want to easily see the purpose of the website and what it offers.
 
 <p align="center">
-<img src="docs/userstory/purpose2.png" width="900" height="500">
+<img src="docs/userstory/purpose2.png" width="600" height="100%">
 
 2. As a new user of this website, I want to be able to easily see the services you offer.
 
 <p align="center">
-<img src="docs/userstory/purpose1.png" width="900" height="500">
+<img src="docs/userstory/purpose1.png" width="600" height="100%">
 
 3. As a new user of this website, I want to be able to find out all the activities on offer easily.
 
 <p align="center">
-<img src="docs/userstory/purpose3.png" width="900" height="500">
+<img src="docs/userstory/purpose3.png" width="600" height="100%">
 <p align="center">
-<img src="docs/userstory/purpose3.1.png" width="900" height="500">
+<img src="docs/userstory/purpose3.1.png" width="600" height="100%">
 <p align="center">
-<img src="docs/userstory/purpose3.2.png" width="900" height="500">
+<img src="docs/userstory/purpose3.2.png" width="600" height="100%">
 <p align="center">
-<img src="docs/userstory/purpose3.3.png" width="900" height="500">
+<img src="docs/userstory/purpose3.3.png" width="600" height="100%">
 
 4. As a new user of this website, I want to be able to see what the complex looks like.
 
 <p align="center">
-<img src="docs/userstory/purpose4.png" width="900" height="500">
+<img src="docs/userstory/purpose4.png" width="600" height="100%">
 
 5. As a new user of this website, I want to easily be able to contact you with any queries.
 
 <p align="center">
-<img src="docs/userstory/purpose5.png" width="900" height="500">
+<img src="docs/userstory/purpose5.png" width="600" height="100%">
 
 6. As a new user of this website, I want to be able to visit your social media websites.
 
 <p align="center">
-<img src="docs/userstory/purpose6.png" width="900" height="500">
+<img src="docs/userstory/purpose6.png" width="600" height="100%">
 
 # Final Product
 
 ## Desktop
 
 <p align="center">
-<img src="docs/finishedproduct/pc1.png" width="900" height="500">
+<img src="docs/finishedproduct/pc1.png" width="600" height="100%">
 
 <p align="center">
-<img src="docs/finishedproduct/pc2.png" width="900" height="500">
+<img src="docs/finishedproduct/pc2.png" width="600" height="100%">
 
 <p align="center">
-<img src="docs/finishedproduct/pc3.png" width="900" height="500">
+<img src="docs/finishedproduct/pc3.png" width="600" height="100%">
 
 <p align="center">
-<img src="docs/finishedproduct/pc5.png" width="900" height="500">
+<img src="docs/finishedproduct/pc5.png" width="600" height="100%">
 
 <p align="center">
-<img src="docs/finishedproduct/pc6.png" width="900" height="500">
+<img src="docs/finishedproduct/pc6.png" width="600" height="100%">
 
 <p align="center">
-<img src="docs/finishedproduct/pc7.png" width="900" height="500">
+<img src="docs/finishedproduct/pc7.png" width="600" height="100%">
 
 ## Ipad
 
 <p align="center">
-<img src="docs/finishedproduct/ipad1.png" width="900" height="500">
+<img src="docs/finishedproduct/ipad1.png" width="600" height="100%">
 
 <p align="center">
-<img src="docs/finishedproduct/ipad2.png" width="900" height="500">
+<img src="docs/finishedproduct/ipad2.png" width="600" height="100%">
 
 <p align="center">
-<img src="docs/finishedproduct/ipad3.png" width="900" height="500">
+<img src="docs/finishedproduct/ipad3.png" width="600" height="100%">
 
 <p align="center">
-<img src="docs/finishedproduct/ipad4.png" width="900" height="500">
+<img src="docs/finishedproduct/ipad4.png" width="600" height="100%">
 
 <p align="center">
-<img src="docs/finishedproduct/ipad5.png" width="900" height="500">
+<img src="docs/finishedproduct/ipad5.png" width="600" height="100%">
 
 <p align="center">
-<img src="docs/finishedproduct/ipad6.png" width="900" height="500">
+<img src="docs/finishedproduct/ipad6.png" width="600" height="100%">
 
 ## Iphone
 
 <p align="center">
-<img src="docs/finishedproduct/iphone1.png" width="900" height="500">
+<img src="docs/finishedproduct/iphone1.png" width="600" height="100%">
 
 <p align="center">
-<img src="docs/finishedproduct/iphone2.png" width="900" height="500">
+<img src="docs/finishedproduct/iphone2.png" width="600" height="100%">
 
 <p align="center">
-<img src="docs/finishedproduct/iphone3.png" width="900" height="500">
+<img src="docs/finishedproduct/iphone3.png" width="600" height="100%">
 
 <p align="center">
-<img src="docs/finishedproduct/iphone4.png" width="900" height="500">
+<img src="docs/finishedproduct/iphone4.png" width="600" height="100%">
 
 <p align="center">
-<img src="docs/finishedproduct/iphone5.png" width="900" height="500">
+<img src="docs/finishedproduct/iphone5.png" width="600" height="100%">
 
 <p align="center">
-<img src="docs/finishedproduct/iphone6.png" width="900" height="500">
+<img src="docs/finishedproduct/iphone6.png" width="600" height="100%">
 
 <p align="center">
-<img src="docs/finishedproduct/iphone7.png" width="900" height="500">
+<img src="docs/finishedproduct/iphone7.png" width="600" height="100%">
 
