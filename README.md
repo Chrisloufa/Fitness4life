@@ -225,3 +225,47 @@ rgba(255, 255, 255, 0.87) for submit button
 
 <p align="center">
 <img src="docs/finishedproduct/pc7.png" width="900" height="500">
+
+## Ipad
+
+<p align="center">
+<img src="docs/finishedproduct/ipad1.png" width="900" height="500">
+
+<p align="center">
+<img src="docs/finishedproduct/ipad2.png" width="900" height="500">
+
+<p align="center">
+<img src="docs/finishedproduct/ipad3.png" width="900" height="500">
+
+<p align="center">
+<img src="docs/finishedproduct/ipad4.png" width="900" height="500">
+
+<p align="center">
+<img src="docs/finishedproduct/ipad5.png" width="900" height="500">
+
+<p align="center">
+<img src="docs/finishedproduct/ipad6.png" width="900" height="500">
+
+## Iphone
+
+<p align="center">
+<img src="docs/finishedproduct/iphone1.png" width="900" height="500">
+
+<p align="center">
+<img src="docs/finishedproduct/iphone2.png" width="900" height="500">
+
+<p align="center">
+<img src="docs/finishedproduct/iphone3.png" width="900" height="500">
+
+<p align="center">
+<img src="docs/finishedproduct/iphone4.png" width="900" height="500">
+
+<p align="center">
+<img src="docs/finishedproduct/iphone5.png" width="900" height="500">
+
+<p align="center">
+<img src="docs/finishedproduct/iphone6.png" width="900" height="500">
+
+<p align="center">
+<img src="docs/finishedproduct/iphone7.png" width="900" height="500">
+
