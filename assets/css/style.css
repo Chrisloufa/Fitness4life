@@ -292,4 +292,9 @@ header {
     #form {
         left: 10%;
     }
+
+    #fitness-outer {
+        padding: 20px 10px !important;
+        margin-top: 20px;
+    }
 }
