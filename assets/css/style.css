@@ -201,7 +201,7 @@ header {
 #form {
     margin: 150px 10% 0 0;
     color: white;
-    background-color: rgba(101, 118, 219, 0.7);
+    background-color: rgba(56, 56, 56, 0.7);
     max-width: 500px;
     position: absolute;
     display: block;
@@ -251,6 +251,8 @@ header {
         float: left;
         line-height: 25px;
         position: fixed;
+        background-color: white;
+        text-align: center;
     }
 
     #form {
@@ -279,27 +281,30 @@ header {
 
     #menu {
         clear: left;
-        float: none;
-        margin-left: 30px;
+        float: left;
         line-height: 25px;
-        font-size: 65%;
+        width: 100%;
+        overflow: hidden;
     }
 
     #form {
         left: 10%;
     }
 
-    #fitness-center {
-        text-align: center;
-    }
-
     .logo {
-        font-size: 100%;
         padding-top: 8%;
+        padding-bottom: 0%;
+        top: 0%;
     }
 
     #header {
-        padding-bottom: 0%;
+        padding-bottom: 5%;
+    }
+
+    #cover-text {
+        width: 70%;
+        font-size: 78%;
+        right: 12%;
     }
 }
 
@@ -307,5 +312,6 @@ header {
 
     #menu {
         font-size: 50%;
+        width: 100%;
     }
 }
