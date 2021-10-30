@@ -269,3 +269,27 @@ rgba(255, 255, 255, 0.87) for submit button
 <p align="center">
 <img src="docs/finishedproduct/iphone7.png" width="600" height="100%">
 
+## GitHub Pages
+1. Log into GitHub and locate the repository.
+2. At the top locate the settings option 
+3. Scroll towards  the bottom of the page and locate GitHub Pages 
+4. Click on the link "Check it out here!"
+4. Under 'Source' dropdown, click 'Master' from the options.
+5. Click the save button.
+6. The site is now published, it may not be available immediately. 
+7. The site URL is visible on the green bar under the "Github Pages".
+
+## Github Clone 
+
+1. First you need to install the GitPod Browser Extension.
+2. Log into GitHub and locate the repository.
+3. Click the green "Gitpod" button just below the Settings.
+4. Now you created a new Gitpod workspace from the code in Github
+
+# Credits
+
+## Content
+
+- Used the Love running project as a basis for the website structure.
+- Love running code used for the footers on the website.
+- Images used from Pexels.
