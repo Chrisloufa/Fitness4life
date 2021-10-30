@@ -119,8 +119,10 @@ The site is fresh and easy to navigate with simple but to the point information.
 
 **HTML**
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/2b9a6186-99ec-4178-be1c-f764b215e5b9/Untitled.png)
+<p align="center">
+<img src="docs/validation/htmlchecker.png" width="900" height="500">
 
 **CSS**
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/200d9603-c4f9-4963-a647-840c37250941/Untitled.png)
+<p align="center">
+<img src="docs/validation/csschecker.png" width="900" height="500">
