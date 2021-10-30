@@ -93,6 +93,36 @@ The site is fresh and easy to navigate with simple but to the point information.
 <p align="center">
 <img src="docs/wireframe/mobilecontactus.png" width="600" height="700">
 
+# Typography and colour scheme
+
+## Design
+
+The website is clean and sleek much like what you would find at the sports centre itself. Modern easy and clean. This is transpired through the page to the user.
+
+## Chosen Colors
+
+#000000 for all the main content
+
+#3a3a3a for menu hover
+
+#ffffff for any contrasts text against a dark background
+
+rgba(101, 118, 219, 0.7) for text box covering an image so image is still visible, also a clean colour effecrt
+
+#252525 for any borders
+
+#3a3a3a for social networks links
+
+rgba(255, 255, 255, 0.87) for submit button
+
+## Media
+
+**Hero image -** Sleek design descriptive of the events to make users aware of the experience they will have upon entering.
+
+**Activities -** Activities images all giving the user an insight to the sports facilities available on-site and the quality and standard of them.
+
+**Contact us -** Contains a background image of one of the centres buildings so the user can have a view of the grounds before visiting.
+
 # Technology
 
 ## **Languages**
