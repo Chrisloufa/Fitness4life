@@ -160,3 +160,34 @@ rgba(255, 255, 255, 0.87) for submit button
 
 <p align="center">
 <img src="docs/validation/csschecker.png" width="900" height="500">
+
+**Lighthouse tools testing**
+
+<p align="center">
+<img src="docs/validation/lighthousetools.png" width="900" height="500">
+
+# User story testing
+
+1. As a new user of this website, I want to easily see the purpose of the website and what it offers.
+
+
+
+2. As a new user of this website, I want to be able to easily see the services you offer.
+
+
+
+3. As a new user of this website, I want to be able to find out all the activities on offer easily.
+
+
+
+4. As a new user of this website, I want to be able to see what the complex looks like.
+
+
+
+5. As a new user of this website, I want to easily be able to contact you with any queries.
+
+
+
+6. As a new user of this website, I want to be able to visit your social media websites.
+
+
