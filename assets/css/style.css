@@ -12,15 +12,16 @@ body {
     color: black;
 }
 
-#logo {
+.logo {
     float: left;
-    font-size: 400%;
+    font-size: 200%;
+    padding-top: 20px;
     margin-left: 30px;
     color: black;
 }
 
 #menu {
-    font-size: 110%;
+    font-size: 80%;
     letter-spacing: 4px;
     line-height: 75px;
 }
@@ -46,15 +47,12 @@ body {
 
 header {
     height: 60px;
-    
     display: inline-block;
     vertical-align: top;
-    
     color: white;
-    
     width: 100%;
     padding-bottom: 20px;
-    }
+}
 
 #fitness-center {
     height: 600px;
@@ -69,6 +67,7 @@ header {
     from {
         transform: scale(1);
     }
+
     to {
         transform: scale(1.4);
     }
@@ -94,7 +93,7 @@ header {
     padding-top: 40px;
     padding-left: 10px;
     padding-right: 10px;
-    
+
     background-color: rgba(101, 118, 219, 0.7);
 
     bottom: 20px;
@@ -106,7 +105,7 @@ header {
     margin-top: 8%;
     margin-bottom: 8%;
     text-align: center;
-   
+
 }
 
 #about-us div {
@@ -124,14 +123,14 @@ header {
     color: #252525;
     padding-top: 20px;
     padding-bottom: 20px;
-    
+
 }
 
 .about {
     text-align: center;
     padding: 0px 50px 30px 50px;
     letter-spacing: 1px;
-   
+
 }
 
 #banner {
@@ -145,17 +144,17 @@ header {
 }
 
 .maps {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
 }
 
 .social-networks {
     text-align: center;
 }
 
-.social-networks > li {
+.social-networks>li {
     display: inline;
 }
 
@@ -171,21 +170,21 @@ header {
 }
 
 .row {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 100%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
 }
-  
+
 .column {
     padding: 10px;
-  }
+}
 
 .caption {
     display: flex;
     text-align: center;
     border: 1px solid rgb(27, 27, 27);
-    border-radius: 10px; 
+    border-radius: 10px;
 }
 
 .sport {
@@ -240,7 +239,7 @@ header {
 }
 
 @media screen and (max-width: 1200px) {
-    
+
     #photos {
         column-count: 2;
         margin-top: 20px;
@@ -250,14 +249,17 @@ header {
     #menu {
         clear: left;
         float: left;
-        margin-left: 30px;
-        margin-bottom: 20px;
         line-height: 25px;
+        position: fixed;
+    }
+
+    #form {
+        left: 25%;
     }
 }
 
 @media screen and (max-width: 950px) {
-    
+
     #photos {
         column-count: 1;
         margin-top: 20px;
@@ -277,14 +279,33 @@ header {
 
     #menu {
         clear: left;
-        float: left;
+        float: none;
         margin-left: 30px;
-        margin-bottom: 20px;
         line-height: 25px;
+        font-size: 65%;
     }
 
     #form {
         left: 10%;
     }
+
+    #fitness-center {
+        text-align: center;
+    }
+
+    .logo {
+        font-size: 100%;
+        padding-top: 8%;
+    }
+
+    #header {
+        padding-bottom: 0%;
+    }
 }
 
+@media screen and (max-width: 400px) {
+
+    #menu {
+        font-size: 50%;
+    }
+}
