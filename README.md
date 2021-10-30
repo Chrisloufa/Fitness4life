@@ -203,3 +203,25 @@ rgba(255, 255, 255, 0.87) for submit button
 
 <p align="center">
 <img src="docs/userstory/purpose6.png" width="900" height="500">
+
+# Final Product
+
+## Desktop
+
+<p align="center">
+<img src="docs/finishedproduct/pc1.png" width="900" height="500">
+
+<p align="center">
+<img src="docs/finishedproduct/pc2.png" width="900" height="500">
+
+<p align="center">
+<img src="docs/finishedproduct/pc3.png" width="900" height="500">
+
+<p align="center">
+<img src="docs/finishedproduct/pc5.png" width="900" height="500">
+
+<p align="center">
+<img src="docs/finishedproduct/pc6.png" width="900" height="500">
+
+<p align="center">
+<img src="docs/finishedproduct/pc7.png" width="900" height="500">
