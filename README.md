@@ -269,24 +269,30 @@ rgba(255, 255, 255, 0.87) for submit button
 <p align="center">
 <img src="docs/finishedproduct/iphone7.png" width="600" height="100%">
 
+# Supported screens and browsers
+
+- Site has been tested on Chrome, Safari and Firefox desktop version browsers.
+- Chrome developers tools was used to test responsiveness on Desktop, Laptop, Moto G4, Galaxy S5, Pixel 2, Pixel 2 XL, iPhone 5/SE, iPhone 6/7/8, iPhone 6/7/8 Plus, iPhone X, iPad, iPad Pro, Surface Duo.
+
 # Deployment
 
 ## GitHub Pages
 1. Log into GitHub and locate the repository.
-2. At the top locate the settings option 
-3. Scroll towards  the bottom of the page and locate GitHub Pages 
-4. Click on the link "Check it out here!"
-4. Under 'Source' dropdown, click 'Master' from the options.
+2. On the nav bar look for the settings option and click on it.
+3. Scroll towards to the bottom of the page.
+4. Click the yellow "check it out here" link under GitHub pages.
+4. Under 'Source' dropdown, click 'Main' from the options.
 5. Click the save button.
-6. The site is now published, it may not be available immediately. 
+6. The sitre will then be published. 
 7. The site URL is visible on the green bar under the "Github Pages".
 
-## Github Clone 
+## Gitpod
 
-1. First you need to install the GitPod Browser Extension.
-2. Log into GitHub and locate the repository.
-3. Click the green "Gitpod" button just below the Settings.
-4. Now you created a new Gitpod workspace from the code in Github
+1. You will need to search for and download the Gitpod browser extension.
+2. Then proceed to login to GitHub.
+3. Find the repository you wish to view.
+3. Click the green "Gitpod" button.
+4. Now you will be taken to a new tab and will be able to view the Gitpod repository.
 
 # Credits
 
