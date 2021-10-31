@@ -269,6 +269,8 @@ rgba(255, 255, 255, 0.87) for submit button
 <p align="center">
 <img src="docs/finishedproduct/iphone7.png" width="600" height="100%">
 
+# Deployment
+
 ## GitHub Pages
 1. Log into GitHub and locate the repository.
 2. At the top locate the settings option 
