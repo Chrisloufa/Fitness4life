@@ -329,3 +329,8 @@ header {
 .videos {
     text-align: center;
 }
+
+.venue {
+    display: block;
+    margin: auto;
+}
